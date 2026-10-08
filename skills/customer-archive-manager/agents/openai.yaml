@@ -1,0 +1,5 @@
+interface:
+  display_name: "客户档案管理"
+  short_description: "客户KYC档案的新增、查询、更新、统计与备份"
+  default_prompt: "使用 $customer-archive-manager 帮我查询或维护客户档案。"
+
