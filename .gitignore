@@ -1,0 +1,17 @@
+.DS_Store
+__pycache__/
+*.py[cod]
+*.log
+.env
+.env.*
+
+# Real customer records must stay local.
+skills/customer-archive-manager/references/cases/archived/*.md
+!skills/customer-archive-manager/references/cases/archived/档案索引.md
+skills/customer-archive-manager/references/cases/backup/*
+!skills/customer-archive-manager/references/cases/backup/.gitkeep
+
+# Generated deliverables.
+output/
+tmp/
+
