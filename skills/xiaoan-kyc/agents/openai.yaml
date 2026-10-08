@@ -1,0 +1,4 @@
+interface:
+  display_name: "小安 KYC"
+  short_description: "普通客户KYC、保障与年金养老规划、PDF/PPTX报告"
+  default_prompt: "使用 $xiaoan-kyc 分析这位客户，结合家庭责任规划保障、年金养老、分红与万能账户，并生成客户版PDF报告。"
